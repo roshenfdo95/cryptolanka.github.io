@@ -72,8 +72,7 @@ h1,h2,h3,h4,h5,h6{
     -moz-opacity:1;
     opacity:1}
 .header .navbar-dark .navbar-toggler-icon 
-    /*{
-        background-image:url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath  stroke='rgba(256,256,256, 1)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")}*/
+    
 .header .nav-item{
     font-weight:bold}
 .header .nav-item.active .nav-link{
